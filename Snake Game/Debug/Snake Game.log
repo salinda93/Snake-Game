@@ -1,0 +1,10 @@
+﻿  Snake Game.cpp
+D:\Visual Studio 2019 workspace\Snake Game\Snake Game\Snake Game.cpp(48,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Studio 2019 workspace\Snake Game\Snake Game\Snake Game.cpp(60,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Snake Game\Snake Game\Snake Game.cpp(91,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Snake Game\Snake Game\Snake Game.cpp(91,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Snake Game\Snake Game\Snake Game.cpp(96,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Snake Game\Snake Game\Snake Game.cpp(96,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Snake Game\Snake Game\Snake Game.cpp(99,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Snake Game\Snake Game\Snake Game.cpp(99,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Snake Game.vcxproj -> D:\Visual Studio 2019 workspace\Snake Game\Debug\Snake Game.exe
